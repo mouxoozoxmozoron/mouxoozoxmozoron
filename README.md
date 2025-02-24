@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @mouxoozoxmozoron
-- 👀 I’m interested in coding using PHP, laravel,fluttter and js, MYSQL database design and management
-- 💞️ I’m looking to collaborate on web application and hybrid mobile application development using laravel and flutter...
-- 📫 How to reach me: ... mussaaron20@gmail.com
-- whatsapp: +255 745450431
-- call: +255 713074067 / +255 745450431
--  instagram : mouxozoxmozoron
+# 👋 Hi, I’m Mussa Aron (@mouxoozoxmozoron)
 
-<!---
-mouxoozoxmozoron/mouxoozoxmozoron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me  
+I am a **professional software developer** specializing in:  
+- **Web Development** using **PHP, Laravel, Vue.js, and JavaScript**  
+- **Mobile App Development** using **Flutter**  
+- **Database Design & Management** with **MySQL**  
+- **SEO Optimization & System Architecture**  
+
+## 🚀 Looking to Collaborate  
+I am open to collaborating on **scalable web applications** and **hybrid mobile applications** using **Laravel and Flutter**.  
+
+## 📫 Get in Touch  
+📧 **Email**: [mussaaron20@gmail.com](mailto:mussaaron20@gmail.com)  
+📱 **WhatsApp**: [+255 745450431](https://wa.me/255745450431?text=Hello%20Mussa%20Aron%2C%20I'm%20interested%20in%20your%20services%2C%20can%20I%20get%20more%20information%3F)  
+📞 **Call**: +255 713074067 / +255 745450431  
+📷 **Instagram**: [@mouxozoxmozoron](https://www.instagram.com/mouxozoxmozoron)  
+🔗 **LinkedIn**: [Mussa Benard](https://www.linkedin.com/in/mussa-benard-7613ba222/)  
+🐙 **GitHub**: [mouxoozoxmozoron](https://github.com/mouxoozoxmozoron)  
+
+---
+
+✨ *Let's build something amazing together!* 🚀  
